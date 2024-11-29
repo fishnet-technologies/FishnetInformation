@@ -1,20 +1,16 @@
 Fishnet Technologies Terms of Service
+11/29/2024 1:52PM
 
 1: Software
 
 1.0 - Users shall not distribute products, downloads, or files to the public, friends, or media.
 
-1.1 - Users shall not attempt to tamper with or reverse engineer Fishnet Technologies' products.
+1.1 - Users shall not attempt to bypass license restrictions for products.
 
-1.2 - Users shall not attempt to bypass license restrictions for products.
+1.2 - Users shall not cross-use products on multiple machines, PCs or desktop environments.
+  - This rule wont apply if you were given permission to use the products on a virtual environment
 
-1.3 - Users shall not cross-use products on multiple machines, PCs or desktop environments.
-
-1.4 - Users cannot use Virtual Machines to use the products unless disclosed that they are allowed to.
-
-1.5 - Users shall not make attempts at showcasing the software in any form unless given permission to do so.
-
-1.6 - Users shall not disclose information about products to specific parties.
+1.3 - Users shall not disclose information about products to specific parties.
 
 2: Licenses & Blacklists
 
@@ -45,14 +41,17 @@ Fishnet Technologies Terms of Service
 4.1 - Users shall not share or disclose messages or announcements from fishnet to certain parties.
 
 4.2 - Users shall not undermine or defame other users or Ex-Users
+  ! Unless in good reason to do so, or it is an actual serious matter.
 
 4.3 - Users shall not disclose any personal information about another user or Ex-User publicly or to others privately
 
 4.4 - Users shall not start public allegations or drama about another user or Ex-User, however instead should be handled privately.
+  
 
 5: Refunds
 
-5.0 - Users cannot request a refund unless the product is having or causing issues during the 30-50 minutes of usage and has been less than 7 days of purchase.
+5.0 - Users cannot request a refund unless the product is having or causing issues during 2 hours of purchase and usage
+  ! Refunding will also only be valid if the purchase was made less than 7 days ago.
 
 5.1 - Users cannot request a refund after the product usage time and purchase date
 
